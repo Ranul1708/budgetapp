@@ -2,7 +2,7 @@
   "name": "budgetapp",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://ranul1708.github.io/budgetapp",
+  "homepage":"https://ranul1708.github.io/budgetapp",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
